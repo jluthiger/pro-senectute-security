@@ -27,8 +27,6 @@ Schreiben Sie dieses Passwort auf einen Zettel und bewahren Sie ihn zu Hause an 
 *nicht* am Computer und *nicht* in einer E-Mail.
 ====
 
----
-
 == Aufgabe 2: Passwort mit der Wort-Ketten-Methode erstellen
 
 Wählen Sie vier Wörter, die nichts miteinander zu tun haben.
@@ -45,8 +43,6 @@ Dieses Passwort hat über 25 Zeichen – das braucht ein Computer Jahrmillionen 
 Länge ist wichtiger als viele Sonderzeichen.
 ====
 
----
-
 == Aufgabe 3: Passwörter vergleichen
 
 Welches der beiden Passwörter aus Aufgabe 1 und 2 könnten Sie sich besser merken?
@@ -56,8 +52,6 @@ Welches der beiden Passwörter aus Aufgabe 1 und 2 könnten Sie sich besser merk
 * [ ] Beide gleich gut (oder gleich schwer)
 
 Kurze Begründung (optional): ___________________________
-
----
 
 == Aufgabe 4: Schwache Passwörter erkennen
 
@@ -101,8 +95,6 @@ Sicher: `Garten#Kaffee#Blau#Fahrrad`, `MeWwiJ1972iB!`
 Namen, Geburtsjahre und einfache Zahlenfolgen werden von Angreifern als erstes ausprobiert.
 ====
 
----
-
 == Aufgabe 5 (optional, mit eigenem Gerät): Passwort-Manager installieren
 
 Falls Sie ein eigenes Gerät dabei haben, können Sie Bitwarden ausprobieren.
@@ -118,8 +110,6 @@ Falls Sie ein eigenes Gerät dabei haben, können Sie Bitwarden ausprobieren.
 Falls Sie lieber eine geführte Installation zu Hause machen möchten,
 kann die Pro Senectute Beratung Sie dabei unterstützen.
 ====
-
----
 
 == Zusammenfassung: Was ich heute gelernt habe
 

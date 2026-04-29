@@ -9,8 +9,6 @@ In dieser Übung besprechen wir gemeinsam drei Situationen,
 die im Alltag wirklich so passieren können.
 Es gibt kein Richtig oder Falsch – wichtig ist, was Sie in dem Moment tun würden.
 
----
-
 == Situation A: Der Anruf vom Microsoft-Mitarbeiter
 
 Ein Mann ruft an. Er spricht gut Deutsch, klingt freundlich und professionell.
@@ -40,8 +38,6 @@ ____
 *Richtige Reaktion:* Auflegen – sofort und ohne Erklärung. Das ist nicht unhöflich, das ist Selbstschutz.
 ====
 
----
-
 == Situation B: Die WhatsApp-Nachricht
 
 Sie erhalten eine Nachricht von einer unbekannten Nummer:
@@ -70,8 +66,6 @@ ____
 Nie Geld überweisen, bevor die Identität bestätigt ist.
 Gutscheinkarten (z. B. Google Play, iTunes) kaufen ist in diesem Kontext fast immer Betrug.
 ====
-
----
 
 == Situation C: Das Warnfenster beim Surfen
 
@@ -108,8 +102,6 @@ Schliessen Sie dieses Fenster NICHT.
 . *Nicht anrufen*
 ====
 
----
-
 == Checkliste: Was tun bei verdächtigen Kontakten?
 
 [cols="3,1"]
@@ -131,8 +123,6 @@ Schliessen Sie dieses Fenster NICHT.
 | Ich bin unsicher – echt oder Betrug?
 | Auflegen/löschen, dann jemanden fragen
 |===
-
----
 
 == Meine persönliche Schutzregel aus dieser Lektion
 

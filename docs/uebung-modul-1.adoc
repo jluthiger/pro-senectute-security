@@ -9,8 +9,6 @@ Sie haben drei E-Mails erhalten. Eine davon ist echt, zwei sind gefälscht.
 Schauen Sie jede E-Mail genau an und entscheiden Sie gemeinsam mit der Kursleitung,
 was verdächtig ist – und was Sie tun würden.
 
----
-
 == E-Mail A – Von: info@dhl-paketservice.de
 
 ____
@@ -64,8 +62,6 @@ Schauen Sie die E-Mail genau an. Kreuzen Sie an, was Ihnen auffällt:
 Nie auf den Link klicken und nie Kreditkartendaten eingeben.
 ====
 
----
-
 == E-Mail B – Von: sicherheit@postfinance.ch
 
 ____
@@ -92,8 +88,6 @@ ____
 *Richtige Antwort:* Diese E-Mail ist eher unverdächtig – sie macht keinen Druck, verlangt keine Daten
 und enthält keinen klickbaren Link. Im Zweifel trotzdem: Nummer selbst auf postfinance.ch nachschlagen und anrufen.
 ====
-
----
 
 == E-Mail C – Von: rechnung@amazon-service-eu.net
 
@@ -130,8 +124,6 @@ ____
 Ob eine echte Bestellung vorliegt, sehen Sie direkt in Ihrem Amazon-Konto.
 ====
 
----
-
 == Übung: Der Schwebetrick
 
 Öffnen Sie einen Browser (z. B. Edge oder Chrome) auf Ihrem Gerät.
@@ -145,8 +137,6 @@ https://www.postfinance.ch/de/privat.html
 Was erscheint unten links im Browser? ___________________________
 
 Versuchen Sie dasselbe mit einem der Links aus den E-Mails oben.
-
----
 
 == Zusammenfassung
 

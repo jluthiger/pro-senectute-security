@@ -4,7 +4,7 @@ Willkommen zum Workshop rund um das Thema **Sicherheit am Computer**
 
 ## Kursunterlagen
 
-Die Unterlagen finden Sie auf dieser [Website]().
+Die Unterlagen finden Sie auf dieser [Website](https://jluthiger.github.io/pro-senectute-security/).
 
 ## Über den Workshop
 

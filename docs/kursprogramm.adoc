@@ -48,8 +48,6 @@ _(mindestens eine Woche nach Tag 1)_
 | 09:00–11:30
 |===
 
----
-
 == Tag 1 – Betrug erkennen: E-Mails, Links und Telefon
 
 === Begrüssung und Einstieg (09:00–09:15)
@@ -57,8 +55,6 @@ _(mindestens eine Woche nach Tag 1)_
 * Vorstellungsrunde: Name und eine persönliche Erfahrung mit verdächtigen Nachrichten
 * Kursüberblick: Was lernen wir heute und nächste Woche?
 * Wichtiger Hinweis: Es gibt keine dummen Fragen – Betrüger sind professionell
-
----
 
 === Modul 1: Gefälschte E-Mails und Links erkennen (09:15–10:15)
 
@@ -130,11 +126,7 @@ Jede E-Mail wird gemeinsam analysiert:
 *Übungsblatt:* link:uebung-modul-1.html[Übung Modul 1 öffnen]
 ====
 
----
-
 === Pause (10:15–10:30)
-
----
 
 === Modul 2: Telefonbetrug, Fernzugriff und Pop-ups (10:30–11:15)
 
@@ -186,15 +178,11 @@ Die Kursleitung schildert je ein Szenario – die Teilnehmenden besprechen gemei
 *Übungsblatt:* link:uebung-modul-2.html[Übung Modul 2 öffnen]
 ====
 
----
-
 === Abschluss Tag 1 und Vorschau Tag 2 (11:15–11:30)
 
 * Rückschau: Was war die wichtigste Erkenntnis heute? (jede Person nennt eine)
 * *Hausaufgabe bis Tag 2:* Eine Woche lang bewusst auf verdächtige Nachrichten achten und stichpunktartig notieren
 * Vorschau: Tag 2 behandelt Passwörter, Kontoschutz und den persönlichen Sicherheitsplan
-
----
 
 == Tag 2 – Passwörter, Kontoschutz und persönlicher Sicherheitsplan
 
@@ -204,8 +192,6 @@ _(Mindestens eine Woche nach Tag 1)_
 
 * Besprechung der Hausaufgabe: Welche verdächtigen Nachrichten oder Situationen sind aufgetaucht?
 * Offene Fragen aus Tag 1 beantworten
-
----
 
 === Modul 3: Sichere Passwörter und Kontoschutz (09:15–10:15)
 
@@ -276,11 +262,7 @@ Selbst wenn jemand Ihr Passwort kennt, kommt er ohne den zweiten Faktor nicht in
 *Übungsblatt:* link:uebung-modul-3.html[Übung Modul 3 öffnen]
 ====
 
----
-
 === Pause (10:15–10:30)
-
----
 
 === Modul 4: Vertrauensbetrug und persönlicher Sicherheitsplan (10:30–11:15)
 
@@ -323,8 +305,6 @@ Wer möchte, stellt eine Regel kurz vor.
 *Übungsblatt:* link:uebung-modul-4.html[Übung Modul 4 öffnen]
 ====
 
----
-
 === Abschluss und Transfer (11:15–11:30)
 
 * Wiederholungsquiz: Kursleitung liest 5 kurze Fragen vor – gemeinsam beantworten
@@ -335,15 +315,11 @@ Wer möchte, stellt eine Regel kurz vor.
   ** Pro Senectute Beratung vor Ort
 * Abschlussmaterial abgeben
 
----
-
 == Abschlussmaterial für Teilnehmende
 
 * Persönlicher Sicherheitsplan «Meine 5 Schutzregeln» (aus Modul 4)
 * Merkblatt «Woran erkenne ich eine Betrugs-E-Mail?»
 * Notfallkarte: Wen anrufen bei Verdacht auf Betrug?
-
----
 
 == Didaktische Hinweise für die Kursleitung
 
