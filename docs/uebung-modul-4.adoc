@@ -1,0 +1,160 @@
+= Übung Modul 4: Vertrauensbetrug erkennen und persönlicher Sicherheitsplan
+:lang: de
+:icons: font
+:experimental:
+
+== Teil 1: Szenarien besprechen
+
+=== Szenario A – Das Online-Bekanntschaft
+
+Auf Facebook meldet sich ein Mann namens «Thomas Brunner» bei Ihnen.
+Er ist verwitwet, Ingenieur, arbeitet auf einem Schiff.
+Er schreibt täglich, fragt nach Ihrem Alltag, schickt Blumen-Emojis.
+Nach drei Wochen schreibt er:
+
+____
+«Ich habe ein Zollproblem – meine wichtigen Dokumente sind festgehalten.
+Ich brauche dringend 800 Fr. Ich zahle dir alles zurück, wenn ich zurück bin.
+Du bist die einzige Person, der ich vertraue.»
+____
+
+=== Diskussionsfragen
+
+. Was geht Ihnen bei dieser Geschichte durch den Kopf?
+. Welche Warnsignale haben sich über die Wochen aufgebaut?
+. Was würden Sie dieser Person antworten?
+
+[TIP]
+====
+*Typische Warnsignale beim Romance Scam:*
+
+* Person lebt weit weg oder «auf einem Schiff» – kann sich nie treffen
+* Videoanruf immer unmöglich («technisches Problem»)
+* Vertrauensaufbau über Wochen, dann plötzlich Geldbitte
+* Emotionaler Druck: «Du bist die Einzige…»
+
+*Richtige Reaktion:* Kein Geld überweisen. Kontakt beenden.
+Bei Unsicherheit: Vertrauensperson oder Pro Senectute Beratung kontaktieren.
+====
+
+---
+
+=== Szenario B – Der Spendenaufruf nach dem Erdbeben
+
+Nach einem schweren Erdbeben sehen Sie auf Facebook folgenden Post:
+
+____
+«Helfen Sie jetzt! Das Rote Kreuz braucht Ihre Spende dringend.
+Jeder Franken hilft den Opfern. Jetzt spenden: bit.ly/roteskreuz-hilfe»
+____
+
+=== Diskussionsfragen
+
+. Was macht diesen Aufruf verdächtig?
+. Wie würden Sie trotzdem helfen, wenn Sie spenden möchten?
+
+[TIP]
+====
+*Warnsignale:*
+
+* Kurz-Link verschleiert das echte Ziel
+* Echter Spendenaufruf erscheint auf der offiziellen Webseite, nicht nur in Social Media
+
+*Richtige Reaktion:* Direkt auf *redcross.ch* oder *ikrk.ch* gehen und dort spenden.
+Nie über Links aus Social Media oder E-Mails.
+====
+
+---
+
+== Teil 2: Mein persönlicher Sicherheitsplan
+
+Wählen Sie aus der Liste unten die *fünf Schutzregeln*, die für Ihren Alltag am wichtigsten sind.
+Ergänzen Sie mit eigenen Worten, wie Sie diese Regel konkret umsetzen.
+
+[cols="1,3,3"]
+|===
+| | Schutzregel | So setze ich sie um
+
+| [ ]
+| Bei Zeitdruck immer innehalten und jemanden fragen
+|
+
+| [ ]
+| Nie über Links aus E-Mails auf Banken oder Shops einloggen
+|
+
+| [ ]
+| Keine Fernwartungssoftware für Unbekannte installieren
+|
+
+| [ ]
+| Bei Geldforderungen immer Rückruf über bekannte Nummer
+|
+
+| [ ]
+| E-Mail-Anhänge nur öffnen, wenn ich sie erwartet habe
+|
+
+| [ ]
+| Für wichtige Konten ein eigenes, starkes Passwort verwenden
+|
+
+| [ ]
+| Zwei-Faktor-Authentifizierung bei E-Mail und Bank aktivieren
+|
+
+| [ ]
+| Bei Spendenaufrufen direkt auf die offizielle Webseite gehen
+|
+
+| [ ]
+| Bei verdächtigen Nachrichten jemanden aus der Familie fragen
+|
+
+| [ ]
+| Eigene Regel: ___________________________
+|
+|===
+
+---
+
+== Abschlussquiz
+
+Die Kursleitung liest die Fragen vor – beantworten wir sie gemeinsam.
+
+[qanda]
+Woran erkennen Sie eine gefälschte E-Mail?::
+Absenderadresse prüfen, Links nicht anklicken (Schwebetrick), Zeitdruck ist Warnsignal, keine Anhänge von Unbekannten öffnen.
+
+Was tun Sie, wenn ein «Microsoft-Mitarbeiter» anruft?::
+Sofort auflegen. Microsoft ruft nie unaufgefordert an.
+
+Was ist die sicherste Methode, auf Ihre Bank-Webseite zu gelangen?::
+Adresse selbst im Browser eintippen – nie über Links aus E-Mails.
+
+Was macht ein Passwort sicher?::
+Mindestens 12 Zeichen, keine Namen oder Daten, für jeden Dienst ein eigenes Passwort.
+
+Jemand bittet Sie online um Geld – was ist Ihr erster Schritt?::
+Innehalten, die Person über einen anderen Kanal direkt kontaktieren und fragen.
+
+---
+
+== Notfallkontakte
+
+[cols="2,3"]
+|===
+| Anlaufstelle | Kontakt
+
+| *Nationale Meldestelle (NCSC)*
+| ncsc.admin.ch → Meldung einreichen
+
+| *Kantonspolizei*
+| Nicht-Notfall: 117 / lokale Nummer
+
+| *Pro Senectute Beratung*
+| prosenectute.ch → Beratungsangebote vor Ort
+
+| *Vertrauensperson aus der Familie*
+| Name: ___________ Telefon: ___________
+|===

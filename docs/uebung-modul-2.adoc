@@ -1,0 +1,141 @@
+= Übung Modul 2: Telefonbetrug und Pop-ups erkennen
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+In dieser Übung besprechen wir gemeinsam drei Situationen,
+die im Alltag wirklich so passieren können.
+Es gibt kein Richtig oder Falsch – wichtig ist, was Sie in dem Moment tun würden.
+
+---
+
+== Situation A: Der Anruf vom Microsoft-Mitarbeiter
+
+Ein Mann ruft an. Er spricht gut Deutsch, klingt freundlich und professionell.
+Er sagt:
+
+____
+«Guten Tag, ich bin Peter Müller vom Microsoft-Support in Zürich.
+Unser System hat festgestellt, dass Ihr Computer mit einem Virus infiziert ist.
+Wenn wir nicht sofort handeln, verlieren Sie alle Ihre Dateien.
+Bitte installieren Sie schnell dieses Programm, damit ich Ihnen helfen kann.»
+____
+
+=== Diskussionsfragen
+
+. Was geht Ihnen in diesem Moment durch den Kopf?
+. Was spricht dafür, dass dies ein Betrug ist?
+. Was würden Sie antworten oder tun?
+
+[TIP]
+====
+*Was wirklich zutrifft:*
+
+* Microsoft ruft *nie* unaufgefordert an
+* Das «Fernwartungsprogramm» gibt dem Anrufer vollen Zugriff auf Ihren Computer
+* Er kann dann Bankdaten sehen, Passwörter kopieren oder Schadsoftware installieren
+
+*Richtige Reaktion:* Auflegen – sofort und ohne Erklärung. Das ist nicht unhöflich, das ist Selbstschutz.
+====
+
+---
+
+== Situation B: Die WhatsApp-Nachricht
+
+Sie erhalten eine Nachricht von einer unbekannten Nummer:
+
+____
+«Hallo Grosi, ich bin's, Lea. Ich hab ein neues Handy, bitte diese Nummer speichern.
+Ich brauche kurz deine Hilfe – kannst du mir 200 Fr. auf dieses Konto überweisen?
+Ich zahle dir morgen zurück. Danke 😊»
+____
+
+=== Diskussionsfragen
+
+. Was fühlen Sie, wenn Sie diese Nachricht lesen?
+. Welche Warnsignale sehen Sie?
+. Was würden Sie als erstes tun?
+
+[TIP]
+====
+*Warnsignale:*
+
+* Unbekannte Nummer
+* Sofortige Geldbitte
+* Zeitdruck und emotionale Bindung («ich bin's»)
+
+*Richtige Reaktion:* Lea direkt auf der *alten* Nummer oder per Telefon anrufen und fragen.
+Nie Geld überweisen, bevor die Identität bestätigt ist.
+Gutscheinkarten (z. B. Google Play, iTunes) kaufen ist in diesem Kontext fast immer Betrug.
+====
+
+---
+
+== Situation C: Das Warnfenster beim Surfen
+
+Während Sie eine Webseite lesen, erscheint plötzlich ein grosses rotes Fenster:
+
+[NOTE]
+====
+*⚠ WARNUNG: Ihr Computer ist infiziert!*
+
+Es wurden 5 Viren gefunden. Ihre Bankdaten sind in Gefahr!
+Rufen Sie sofort an: *0800 999 111* (kostenlos, 24h)
+
+Schliessen Sie dieses Fenster NICHT.
+====
+
+=== Diskussionsfragen
+
+. Was ist Ihre erste Reaktion auf dieses Fenster?
+. Warum steht da «Schliessen Sie dieses Fenster NICHT»?
+. Was tun Sie?
+
+[TIP]
+====
+*Was dahinter steckt:*
+
+* Das Fenster ist eine Webseite – kein echtes Windows-Fenster
+* Ihr Computer ist in diesem Moment *nicht* infiziert
+* Die Telefonnummer führt zu Betrügern – nicht zu echtem Support
+
+*Richtige Reaktion:*
+
+. Browser-Fenster schliessen (kbd:[Alt+F4]) oder Tab schliessen
+. Falls das Fenster sich nicht schliessen lässt: Computer neu starten
+. *Nicht anrufen*
+====
+
+---
+
+== Checkliste: Was tun bei verdächtigen Kontakten?
+
+[cols="3,1"]
+|===
+| Situation | Meine Antwort
+
+| Unbekannte Person ruft wegen Computerproblem an
+| Auflegen
+
+| E-Mail fordert mich auf, ein Programm zu installieren
+| Löschen
+
+| WhatsApp-Nachricht von unbekannter Nummer bittet um Geld
+| Alte Nummer der Person anrufen
+
+| Pop-up warnt vor Virus und zeigt Telefonnummer
+| Fenster schliessen, nicht anrufen
+
+| Ich bin unsicher – echt oder Betrug?
+| Auflegen/löschen, dann jemanden fragen
+|===
+
+---
+
+== Meine persönliche Schutzregel aus dieser Lektion
+
+____
+Wenn ich einen verdächtigen Anruf bekomme, tue ich Folgendes: ___________________________
+____

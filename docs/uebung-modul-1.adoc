@@ -1,0 +1,157 @@
+= Übung Modul 1: E-Mails und Links beurteilen
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Sie haben drei E-Mails erhalten. Eine davon ist echt, zwei sind gefälscht.
+Schauen Sie jede E-Mail genau an und entscheiden Sie gemeinsam mit der Kursleitung,
+was verdächtig ist – und was Sie tun würden.
+
+---
+
+== E-Mail A – Von: info@dhl-paketservice.de
+
+____
+*Betreff:* Ihr Paket wartet – Zollgebühr ausstehend
+
+Guten Tag,
+
+Ihr Paket (Sendungsnummer CH-8842991) konnte nicht zugestellt werden,
+da eine Zollgebühr von *CHF 1.99* aussteht.
+
+Bitte bezahlen Sie innerhalb von 24 Stunden, sonst wird das Paket zurückgeschickt.
+
+*→ Jetzt bezahlen:* http://dhl-ch-lieferung.info/zahlung
+
+Mit freundlichen Grüssen +
+Ihr DHL-Kundenservice
+____
+
+=== Aufgabe 1: Warnsignale markieren
+
+Schauen Sie die E-Mail genau an. Kreuzen Sie an, was Ihnen auffällt:
+
+* [ ] Die Absenderadresse endet nicht auf `@dhl.com` oder `@dhl.ch`
+* [ ] Sie erwarten gar kein Paket
+* [ ] Der Link endet auf `.info` – nicht auf `.ch` oder `.com`
+* [ ] Es wird Zeitdruck gemacht («innerhalb von 24 Stunden»)
+* [ ] Der Betrag ist bewusst klein gewählt, damit man nicht nachdenkt
+
+=== Aufgabe 2: Was tun Sie?
+
+[cols="1,3"]
+|===
+| Option | Ihre Entscheidung (ankreuzen)
+
+| [ ] Auf den Link klicken und bezahlen
+|
+
+| [ ] E-Mail löschen
+|
+
+| [ ] Direkt auf dhl.ch gehen und Sendungsnummer eingeben
+|
+
+| [ ] Bei DHL anrufen (Nummer von dhl.ch, nicht aus der E-Mail)
+|
+|===
+
+[TIP]
+====
+*Richtige Antwort:* E-Mail löschen oder direkt auf der offiziellen DHL-Webseite prüfen.
+Nie auf den Link klicken und nie Kreditkartendaten eingeben.
+====
+
+---
+
+== E-Mail B – Von: sicherheit@postfinance.ch
+
+____
+*Betreff:* Ihre Sicherheitsprüfung ist abgeschlossen
+
+Guten Tag,
+
+wir bestätigen, dass Ihre Sicherheitsprüfung erfolgreich abgeschlossen wurde.
+Ihr Konto ist weiterhin aktiv und geschützt.
+
+Bei Fragen stehen wir Ihnen unter 0800 888 710 (gebührenfrei) zur Verfügung.
+
+Mit freundlichen Grüssen +
+PostFinance AG
+____
+
+=== Aufgabe 3: Einschätzung
+
+* [ ] Diese E-Mail ist vermutlich *echt* – sie fordert nichts, enthält keinen Link, nennt eine echte Nummer
+* [ ] Diese E-Mail ist vermutlich *gefälscht*
+
+[TIP]
+====
+*Richtige Antwort:* Diese E-Mail ist eher unverdächtig – sie macht keinen Druck, verlangt keine Daten
+und enthält keinen klickbaren Link. Im Zweifel trotzdem: Nummer selbst auf postfinance.ch nachschlagen und anrufen.
+====
+
+---
+
+== E-Mail C – Von: rechnung@amazon-service-eu.net
+
+____
+*Betreff:* Ihre Rechnung Nr. 482-3847291 im Anhang
+
+Guten Tag,
+
+im Anhang finden Sie Ihre aktuelle Rechnung.
+Bitte öffnen Sie das Dokument und überprüfen Sie Ihre Bestellung.
+
+[Anhang: Rechnung_482-3847291.zip]
+
+Mit freundlichen Grüssen +
+Ihr Amazon-Team
+____
+
+=== Aufgabe 4: Warnsignale
+
+* [ ] Die Absenderadresse ist `amazon-service-eu.net` – Amazon schreibt von `@amazon.de` oder `@amazon.ch`
+* [ ] Der Anhang ist eine ZIP-Datei – kein echter Onlineshop verschickt Rechnungen als ZIP
+* [ ] Es gibt keinen Hinweis, was bestellt wurde
+* [ ] Sie haben gar nichts bestellt
+
+=== Aufgabe 5: Was tun Sie mit dem Anhang?
+
+* [ ] Öffnen – ich bin neugierig, was drin ist
+* [ ] *Nicht öffnen* – direkt löschen
+* [ ] Auf amazon.ch in meinem Konto nachschauen, ob wirklich eine Bestellung vorliegt
+
+[TIP]
+====
+*Richtige Antwort:* Anhang nicht öffnen, E-Mail löschen.
+Ob eine echte Bestellung vorliegt, sehen Sie direkt in Ihrem Amazon-Konto.
+====
+
+---
+
+== Übung: Der Schwebetrick
+
+Öffnen Sie einen Browser (z. B. Edge oder Chrome) auf Ihrem Gerät.
+Bewegen Sie den Mauszeiger *ohne Klicken* über diesen Link:
+
+[source]
+----
+https://www.postfinance.ch/de/privat.html
+----
+
+Was erscheint unten links im Browser? ___________________________
+
+Versuchen Sie dasselbe mit einem der Links aus den E-Mails oben.
+
+---
+
+== Zusammenfassung
+
+Was nehmen Sie aus dieser Übung mit?
+
+____
+Meine persönliche Erkenntnis: ___________________________
+____

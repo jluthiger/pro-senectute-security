@@ -1,0 +1,128 @@
+= Übung Modul 3: Sichere Passwörter erstellen
+:lang: de
+:icons: font
+:experimental:
+
+== Aufgabe 1: Passwort mit der Satz-Methode erstellen
+
+Denken Sie an einen Satz, den Sie sich gut merken können.
+Das kann ein Lied, ein Sprichwort oder eine persönliche Erinnerung sein.
+
+*Beispiel:*
+
+[cols="1,3"]
+|===
+| Ihr Satz | «Meine erste Wohnung war im Jahr 1972 in Berlin!»
+| Anfangsbuchstaben | M e W w i J 1 9 7 2 i B !
+| Passwort | `MeWwiJ1972iB!`
+|===
+
+*Ihr Satz:* ___________________________
+
+*Ihr Passwort daraus:* ___________________________
+
+[TIP]
+====
+Schreiben Sie dieses Passwort auf einen Zettel und bewahren Sie ihn zu Hause an einem sicheren Ort auf –
+*nicht* am Computer und *nicht* in einer E-Mail.
+====
+
+---
+
+== Aufgabe 2: Passwort mit der Wort-Ketten-Methode erstellen
+
+Wählen Sie vier Wörter, die nichts miteinander zu tun haben.
+Verbinden Sie sie mit einem Sonderzeichen.
+
+*Beispiel:* `Garten#Kaffee#Blau#Fahrrad`
+
+*Ihre vier Wörter:* ___________ # ___________ # ___________ # ___________
+
+[TIP]
+====
+*Warum das sicher ist:*
+Dieses Passwort hat über 25 Zeichen – das braucht ein Computer Jahrmillionen zum Knacken.
+Länge ist wichtiger als viele Sonderzeichen.
+====
+
+---
+
+== Aufgabe 3: Passwörter vergleichen
+
+Welches der beiden Passwörter aus Aufgabe 1 und 2 könnten Sie sich besser merken?
+
+* [ ] Das Passwort aus der *Satz-Methode*
+* [ ] Das Passwort aus der *Wort-Ketten-Methode*
+* [ ] Beide gleich gut (oder gleich schwer)
+
+Kurze Begründung (optional): ___________________________
+
+---
+
+== Aufgabe 4: Schwache Passwörter erkennen
+
+Welche der folgenden Passwörter sind *unsicher*? Kreuzen Sie an:
+
+[cols="2,1,1"]
+|===
+| Passwort | Unsicher | Sicher
+
+| `123456`
+| [ ]
+| [ ]
+
+| `Maria1952`
+| [ ]
+| [ ]
+
+| `Garten#Kaffee#Blau#Fahrrad`
+| [ ]
+| [ ]
+
+| `qwerty`
+| [ ]
+| [ ]
+
+| `MeWwiJ1972iB!`
+| [ ]
+| [ ]
+
+| `Hund`
+| [ ]
+| [ ]
+|===
+
+[TIP]
+====
+*Auflösung:*
+Unsicher: `123456`, `Maria1952`, `qwerty`, `Hund`
+Sicher: `Garten#Kaffee#Blau#Fahrrad`, `MeWwiJ1972iB!`
+
+Namen, Geburtsjahre und einfache Zahlenfolgen werden von Angreifern als erstes ausprobiert.
+====
+
+---
+
+== Aufgabe 5 (optional, mit eigenem Gerät): Passwort-Manager installieren
+
+Falls Sie ein eigenes Gerät dabei haben, können Sie Bitwarden ausprobieren.
+
+. Öffnen Sie Ihren Browser und gehen Sie auf *bitwarden.com*
+. Klicken Sie auf «Get started for free»
+. Erstellen Sie ein Konto mit Ihrer E-Mail-Adresse
+. Erstellen Sie ein sicheres Master-Passwort (verwenden Sie Ihre Wort-Kette aus Aufgabe 2)
+. Speichern Sie ein erstes Passwort im Tresor
+
+[NOTE]
+====
+Falls Sie lieber eine geführte Installation zu Hause machen möchten,
+kann die Pro Senectute Beratung Sie dabei unterstützen.
+====
+
+---
+
+== Zusammenfassung: Was ich heute gelernt habe
+
+____
+Das wichtigste zum Thema Passwörter für mich persönlich: ___________________________
+____

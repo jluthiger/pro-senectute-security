@@ -1,0 +1,355 @@
+= Sicher im Internet – Kursprogramm
+:author_1: Pro Senectute
+:author_2: Jürg Luthiger
+:revnumber: 1.0
+
+:lang: de
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 3
+:icons: font
+:experimental:
+:numbered:
+
+== Kursüberblick
+
+=== Zielgruppe
+
+Seniorinnen und Senioren (max. 5 Teilnehmende), die ihren Computer oder ihr Smartphone sicherer nutzen und digitale Betrüger zuverlässig erkennen möchten.
+
+=== Lernziele
+
+Nach dem Kurs können die Teilnehmenden:
+
+* Häufige Betrugsmaschen im Internet und per Telefon erkennen
+* Gefälschte E-Mails, Links und Webseiten von echten unterscheiden
+* Mit Druck und Angstmacherei gelassen umgehen
+* Sichere Passwörter erstellen und einen Passwort-Manager einsetzen
+* Im Alltag konkrete Schutzregeln anwenden
+
+=== Voraussetzungen
+
+* Grundkenntnisse im Umgang mit Computer oder Smartphone
+* Kein technisches Vorwissen nötig
+
+=== Zeitplan
+
+[cols="^1,4,^1", options="header"]
+|===
+| Tag | Inhalt | Zeit
+
+| *Tag 1*
+| Betrug erkennen: E-Mails, Links, Telefon und Fernzugriff
+| 09:00–11:30
+
+| *Tag 2*
+| Passwörter, Kontoschutz und persönlicher Sicherheitsplan +
+_(mindestens eine Woche nach Tag 1)_
+| 09:00–11:30
+|===
+
+---
+
+== Tag 1 – Betrug erkennen: E-Mails, Links und Telefon
+
+=== Begrüssung und Einstieg (09:00–09:15)
+
+* Vorstellungsrunde: Name und eine persönliche Erfahrung mit verdächtigen Nachrichten
+* Kursüberblick: Was lernen wir heute und nächste Woche?
+* Wichtiger Hinweis: Es gibt keine dummen Fragen – Betrüger sind professionell
+
+---
+
+=== Modul 1: Gefälschte E-Mails und Links erkennen (09:15–10:15)
+
+==== Theorie: Wie denken Betrüger?
+
+Die meisten Angriffe zielen nicht auf Technik, sondern auf Menschen – das nennt man *Social Engineering*.
+
+[TIP]
+====
+*Die drei Hebel der Betrüger:*
+
+* *Zeitdruck:* «Ihr Konto wird in 24 Stunden gesperrt!»
+* *Angst:* «Ihr Computer ist infiziert!»
+* *Vertrauen:* Absender wirkt wie eine Bank, Post oder Behörde
+
+*Goldene Regel:* Wer Druck macht, will etwas von Ihnen.
+====
+
+==== Theorie: Häufige Betrugsmaschen per E-Mail
+
+[cols="1,3", options="header"]
+|===
+| Masche | Typisches Erkennungszeichen
+
+| Gefälschte Paketbenachrichtigung
+| «1,99 CHF Zoll» – kleine Beträge wirken glaubwürdig
+
+| Bank-Konto-Sperrung
+| Link führt auf täuschend echte Kopie der Bank-Webseite
+
+| Gefälschte Rechnung im Anhang
+| PDF, ZIP oder Word-Datei – Öffnen startet Schadsoftware
+
+| Passwortdiebstahl
+| «Ungewöhnlicher Login erkannt» – Link führt auf Fake-Loginseite
+
+| Suchmaschinen-Fallen
+| Gefälschte Werbeanzeigen über echten Suchergebnissen
+|===
+
+==== Theorie: Links prüfen ohne anzuklicken
+
+[TIP]
+====
+*Der Schwebetrick am Computer:*
+Mauszeiger über den Link bewegen (nicht klicken) → unten links im Browser erscheint die echte Zieladresse.
+
+*Am Smartphone:*
+Finger lang auf den Link drücken → Vorschau der Adresse erscheint → Menü mit kbd:[Neben den Link tippen] schliessen.
+
+*Warnsignale in Adressen:*
+
+* Buchstabendreher: `amozon.de` statt `amazon.de`
+* Falsche Endung: `sparkasse.net` statt `sparkasse.de`
+* Kurz-Links: `bit.ly/...` verschleiern das echte Ziel
+====
+
+==== Praxis: Gemeinsam E-Mails und Links beurteilen
+
+Die Kursleitung zeigt drei E-Mails (echt und gefälscht gemischt) am Bildschirm.
+Jede E-Mail wird gemeinsam analysiert:
+
+. Wo könnte etwas nicht stimmen?
+. Was würden Sie tun, wenn diese E-Mail in Ihrem Postfach wäre?
+. Schwebetrick live demonstrieren – wer möchte, probiert es am eigenen Gerät
+
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-1.html[Übung Modul 1 öffnen]
+====
+
+---
+
+=== Pause (10:15–10:30)
+
+---
+
+=== Modul 2: Telefonbetrug, Fernzugriff und Pop-ups (10:30–11:15)
+
+==== Theorie: Betrug per Telefon und Fernzugriff
+
+[TIP]
+====
+*Enkeltrick 2.0 (digital):*
+«Hallo Oma, mein Handy ist kaputt – das ist meine neue Nummer.»
+Dann folgt: Bitte um Überweisung, Gutscheinkarten oder Rechnungszahlung.
+*Psychologischer Hebel:* Zeitdruck + Familiengefühl.
+
+*Fake-Tech-Support:*
+Pop-up: «Ihr Computer ist infiziert! Rufen Sie sofort Microsoft an.»
+Dann: Fernwartungssoftware installieren (TeamViewer, AnyDesk) → vollständiger Zugriff auf Ihren PC.
+
+*Wichtig:* Microsoft, Apple und Banken rufen Sie nie unaufgefordert an.
+====
+
+==== Theorie: Weitere Maschen
+
+[cols="1,3", options="header"]
+|===
+| Masche | Erkennungszeichen
+
+| Gewinnspiel-Betrug
+| «Sie haben ein iPhone gewonnen» – nur Versandkosten zahlen
+
+| Abo-Fallen
+| «Gratis Virenscan» – im Kleingedruckten steckt ein teures Abo
+
+| Fake-Freunde (Social Media)
+| Bekanntes Gesicht schickt zweite Freundschaftsanfrage (Klonprofil)
+
+| Falsche Spendenaufrufe
+| Nach Katastrophen: Missbrauch echter Organisationen wie dem Roten Kreuz
+|===
+
+==== Praxis: Gemeinsame Diskussion zu Szenarien
+
+Die Kursleitung schildert je ein Szenario – die Teilnehmenden besprechen gemeinsam:
+
+. *Szenario A – Anruf:* Ein Mann meldet sich als Microsoft-Mitarbeiter und sagt, Ihr Computer sei infiziert. Er bittet, ein Programm zu installieren, damit er helfen kann. Was tun Sie?
+. *Szenario B – WhatsApp:* Eine Nachricht von einer unbekannten Nummer: «Hallo Grosi, ich bin's, Lea. Neues Handy – bitte diese Nummer speichern. Kannst du mir kurz 200 Fr. überweisen?» Was tun Sie?
+. *Szenario C – Pop-up:* Beim Surfen erscheint ein grosses rotes Fenster: «Virus gefunden! Anrufen: 0800 123 456». Was tun Sie?
+
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-2.html[Übung Modul 2 öffnen]
+====
+
+---
+
+=== Abschluss Tag 1 und Vorschau Tag 2 (11:15–11:30)
+
+* Rückschau: Was war die wichtigste Erkenntnis heute? (jede Person nennt eine)
+* *Hausaufgabe bis Tag 2:* Eine Woche lang bewusst auf verdächtige Nachrichten achten und stichpunktartig notieren
+* Vorschau: Tag 2 behandelt Passwörter, Kontoschutz und den persönlichen Sicherheitsplan
+
+---
+
+== Tag 2 – Passwörter, Kontoschutz und persönlicher Sicherheitsplan
+
+_(Mindestens eine Woche nach Tag 1)_
+
+=== Rückblick und Erfahrungsaustausch (09:00–09:15)
+
+* Besprechung der Hausaufgabe: Welche verdächtigen Nachrichten oder Situationen sind aufgetaucht?
+* Offene Fragen aus Tag 1 beantworten
+
+---
+
+=== Modul 3: Sichere Passwörter und Kontoschutz (09:15–10:15)
+
+==== Theorie: Warum Passwörter so wichtig sind
+
+Wer das E-Mail-Konto kontrolliert, kann oft alle anderen Passwörter zurücksetzen.
+Deshalb: *Das E-Mail-Passwort besonders gut schützen.*
+
+[TIP]
+====
+*Drei Methoden für sichere Passwörter:*
+
+*1. Die Satz-Methode:*
+Satz: «Meine erste Wohnung war im Jahr 1972 in Berlin!»
+Passwort: `MeWwiJ1972iB!`
+
+*2. Die Wort-Ketten-Methode (sehr sicher und merkbar):*
+Vier unzusammenhängende Wörter: `Garten#Kaffee#Blau#Fahrrad`
+Lang und trotzdem merkbar – Länge schlägt Komplexität.
+
+*Regeln:*
+
+* Für jeden Dienst ein eigenes Passwort
+* Keine Namen von Enkeln oder Geburtsdaten
+* Mindestens 12 Zeichen
+====
+
+==== Theorie: Passwort-Manager
+
+Ein Passwort-Manager speichert alle Passwörter sicher verschlüsselt.
+Man merkt sich nur noch ein einziges *Master-Passwort*.
+
+[TIP]
+====
+*Empfehlenswerte Programme (Stand 2026):*
+
+* *NordPass:* Sehr einfache, deutschsprachige Oberfläche – ideal für Einsteiger
+* *Bitwarden:* Kostenlos, auf unbegrenzt vielen Geräten gleichzeitig nutzbar
+* *1Password:* Enthält «Emergency Kit» – ausdruckbares Notfallblatt für Angehörige
+
+*Wichtig:* Alle drei nutzen eine «Zero-Knowledge-Architektur» –
+selbst der Hersteller kann Ihre Passwörter nicht lesen.
+====
+
+==== Theorie: Zwei-Faktor-Authentifizierung (2FA)
+
+Selbst wenn jemand Ihr Passwort kennt, kommt er ohne den zweiten Faktor nicht ins Konto.
+
+[TIP]
+====
+*So funktioniert 2FA:*
+
+. Passwort eingeben
+. Zusätzlich: einmaliger Code per SMS oder App
+
+*Aktivieren bei:* Google, Microsoft, PostFinance, PayPal
+====
+
+==== Praxis: Passwörter erstellen und Passwort-Manager entdecken
+
+. Eigenes starkes Passwort mit der Satz-Methode erstellen und aufschreiben
+. Passwort mit der Wort-Ketten-Methode erstellen – gemeinsam besprechen: Welches ist merkbarer?
+. Passwort-Manager-Demo: Kursleitung zeigt NordPass oder Bitwarden live
+. Optional (mit eigenem Gerät): Passwort-Manager installieren und erstes Passwort eintragen
+
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-3.html[Übung Modul 3 öffnen]
+====
+
+---
+
+=== Pause (10:15–10:30)
+
+---
+
+=== Modul 4: Vertrauensbetrug und persönlicher Sicherheitsplan (10:30–11:15)
+
+==== Theorie: Betrug über Vertrauen und Emotionen
+
+Diese Maschen bauen über Wochen oder Monate Vertrauen auf – bevor sie zuschlagen.
+
+[TIP]
+====
+*Romance Scam:*
+Kontakt über Dating-Seiten oder Social Media mit gestohlenen Profilbildern.
+Wochen des Vertrauensaufbaus → dann plötzlich: Notfall, Arztkosten, Flugticket, Zollproblem.
+*Warnsignal:* Person will sich nie per Video zeigen oder verschiebt Treffen immer wieder.
+
+*Falsche Spendenaufrufe:*
+Nach Katastrophen erscheinen sofort gefälschte Spendenaufrufe im Namen echter Organisationen.
+*Regel:* Direkt auf die offizielle Webseite gehen, nie über Links aus E-Mails spenden.
+
+*Fake-Freunde auf Facebook:*
+Bekannte Person schickt zweite Freundschaftsanfrage (Klonprofil).
+Dann: Geldbitte oder Phishing-Link.
+*Regel:* Bekannte direkt per Telefon fragen, ob die Anfrage echt ist.
+====
+
+==== Praxis: Diskussion und persönlicher Sicherheitsplan
+
+*Teil 1 – Diskussion (15 Min):*
+Die Kursleitung stellt die Fragen, die Teilnehmenden antworten frei:
+
+. Kennen Sie jemanden, der von einer dieser Maschen betroffen war?
+. Was macht es so schwer, in dem Moment «Stopp» zu sagen?
+. Welche Schutzregel wäre für Sie persönlich am wichtigsten?
+
+*Teil 2 – Persönlicher Sicherheitsplan (15 Min):*
+Jede Person füllt das Arbeitsblatt «Meine 5 Schutzregeln» für den eigenen Alltag aus.
+Wer möchte, stellt eine Regel kurz vor.
+
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-4.html[Übung Modul 4 öffnen]
+====
+
+---
+
+=== Abschluss und Transfer (11:15–11:30)
+
+* Wiederholungsquiz: Kursleitung liest 5 kurze Fragen vor – gemeinsam beantworten
+* Offene Fragen beantworten
+* Hinweis auf Ressourcen:
+  ** ncsc.admin.ch (Nationale Meldestelle für Cybersicherheit)
+  ** Kantonspolizei – Betrugsmeldung
+  ** Pro Senectute Beratung vor Ort
+* Abschlussmaterial abgeben
+
+---
+
+== Abschlussmaterial für Teilnehmende
+
+* Persönlicher Sicherheitsplan «Meine 5 Schutzregeln» (aus Modul 4)
+* Merkblatt «Woran erkenne ich eine Betrugs-E-Mail?»
+* Notfallkarte: Wen anrufen bei Verdacht auf Betrug?
+
+---
+
+== Didaktische Hinweise für die Kursleitung
+
+* Langsam sprechen und häufig nachfragen, ob alle folgen können
+* Reale Beispiele von Betrugs-E-Mails zeigen (anonymisiert, ausgedruckt oder am Bildschirm)
+* Keine Schuld zuweisen – Betrüger sind professionell, nicht die Opfer leichtgläubig
+* Diskussionen moderieren: alle zu Wort kommen lassen, nicht unterbrechen
+* Tag-2-Einstieg nutzen, um Erlebnisse der Hausaufgabe aufzugreifen
+* Bei technischen Fragen zu eigenen Geräten: nach dem Kurs individuell unterstützen
