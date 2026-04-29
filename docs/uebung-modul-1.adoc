@@ -56,9 +56,10 @@ Schauen Sie die E-Mail genau an. Kreuzen Sie an, was Ihnen auffällt:
 |
 |===
 
-[TIP]
+.Richtige Antwort anzeigen
+[%collapsible]
 ====
-*Richtige Antwort:* E-Mail löschen oder direkt auf der offiziellen DHL-Webseite prüfen.
+E-Mail löschen oder direkt auf der offiziellen DHL-Webseite prüfen.
 Nie auf den Link klicken und nie Kreditkartendaten eingeben.
 ====
 
@@ -83,9 +84,10 @@ ____
 * [ ] Diese E-Mail ist vermutlich *echt* – sie fordert nichts, enthält keinen Link, nennt eine echte Nummer
 * [ ] Diese E-Mail ist vermutlich *gefälscht*
 
-[TIP]
+.Richtige Antwort anzeigen
+[%collapsible]
 ====
-*Richtige Antwort:* Diese E-Mail ist eher unverdächtig – sie macht keinen Druck, verlangt keine Daten
+Diese E-Mail ist eher unverdächtig – sie macht keinen Druck, verlangt keine Daten
 und enthält keinen klickbaren Link. Im Zweifel trotzdem: Nummer selbst auf postfinance.ch nachschlagen und anrufen.
 ====
 
@@ -118,9 +120,10 @@ ____
 * [ ] *Nicht öffnen* – direkt löschen
 * [ ] Auf amazon.ch in meinem Konto nachschauen, ob wirklich eine Bestellung vorliegt
 
-[TIP]
+.Richtige Antwort anzeigen
+[%collapsible]
 ====
-*Richtige Antwort:* Anhang nicht öffnen, E-Mail löschen.
+Anhang nicht öffnen, E-Mail löschen.
 Ob eine echte Bestellung vorliegt, sehen Sie direkt in Ihrem Amazon-Konto.
 ====
 

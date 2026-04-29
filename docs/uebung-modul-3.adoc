@@ -86,9 +86,9 @@ Welche der folgenden Passwörter sind *unsicher*? Kreuzen Sie an:
 | [ ]
 |===
 
-[TIP]
+.Auflösung anzeigen
+[%collapsible]
 ====
-*Auflösung:*
 Unsicher: `123456`, `Maria1952`, `qwerty`, `Hund`
 Sicher: `Garten#Kaffee#Blau#Fahrrad`, `MeWwiJ1972iB!`
 

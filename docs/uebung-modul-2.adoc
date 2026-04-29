@@ -27,15 +27,14 @@ ____
 . Was spricht dafür, dass dies ein Betrug ist?
 . Was würden Sie antworten oder tun?
 
-[TIP]
+.Richtige Reaktion anzeigen
+[%collapsible]
 ====
-*Was wirklich zutrifft:*
-
 * Microsoft ruft *nie* unaufgefordert an
 * Das «Fernwartungsprogramm» gibt dem Anrufer vollen Zugriff auf Ihren Computer
 * Er kann dann Bankdaten sehen, Passwörter kopieren oder Schadsoftware installieren
 
-*Richtige Reaktion:* Auflegen – sofort und ohne Erklärung. Das ist nicht unhöflich, das ist Selbstschutz.
+Auflegen – sofort und ohne Erklärung. Das ist nicht unhöflich, das ist Selbstschutz.
 ====
 
 == Situation B: Die WhatsApp-Nachricht
@@ -54,7 +53,8 @@ ____
 . Welche Warnsignale sehen Sie?
 . Was würden Sie als erstes tun?
 
-[TIP]
+.Richtige Reaktion anzeigen
+[%collapsible]
 ====
 *Warnsignale:*
 
@@ -62,7 +62,7 @@ ____
 * Sofortige Geldbitte
 * Zeitdruck und emotionale Bindung («ich bin's»)
 
-*Richtige Reaktion:* Lea direkt auf der *alten* Nummer oder per Telefon anrufen und fragen.
+Lea direkt auf der *alten* Nummer oder per Telefon anrufen und fragen.
 Nie Geld überweisen, bevor die Identität bestätigt ist.
 Gutscheinkarten (z. B. Google Play, iTunes) kaufen ist in diesem Kontext fast immer Betrug.
 ====
@@ -87,15 +87,12 @@ Schliessen Sie dieses Fenster NICHT.
 . Warum steht da «Schliessen Sie dieses Fenster NICHT»?
 . Was tun Sie?
 
-[TIP]
+.Richtige Reaktion anzeigen
+[%collapsible]
 ====
-*Was dahinter steckt:*
-
 * Das Fenster ist eine Webseite – kein echtes Windows-Fenster
 * Ihr Computer ist in diesem Moment *nicht* infiziert
 * Die Telefonnummer führt zu Betrügern – nicht zu echtem Support
-
-*Richtige Reaktion:*
 
 . Browser-Fenster schliessen (kbd:[Alt+F4]) oder Tab schliessen
 . Falls das Fenster sich nicht schliessen lässt: Computer neu starten

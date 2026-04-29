@@ -24,16 +24,17 @@ ____
 . Welche Warnsignale haben sich über die Wochen aufgebaut?
 . Was würden Sie dieser Person antworten?
 
-[TIP]
+.Warnsignale und richtige Reaktion anzeigen
+[%collapsible]
 ====
-*Typische Warnsignale beim Romance Scam:*
+*Typische Warnsignale:*
 
 * Person lebt weit weg oder «auf einem Schiff» – kann sich nie treffen
 * Videoanruf immer unmöglich («technisches Problem»)
 * Vertrauensaufbau über Wochen, dann plötzlich Geldbitte
 * Emotionaler Druck: «Du bist die Einzige…»
 
-*Richtige Reaktion:* Kein Geld überweisen. Kontakt beenden.
+Kein Geld überweisen. Kontakt beenden.
 Bei Unsicherheit: Vertrauensperson oder Pro Senectute Beratung kontaktieren.
 ====
 
@@ -51,14 +52,13 @@ ____
 . Was macht diesen Aufruf verdächtig?
 . Wie würden Sie trotzdem helfen, wenn Sie spenden möchten?
 
-[TIP]
+.Warnsignale und richtige Reaktion anzeigen
+[%collapsible]
 ====
-*Warnsignale:*
-
 * Kurz-Link verschleiert das echte Ziel
 * Echter Spendenaufruf erscheint auf der offiziellen Webseite, nicht nur in Social Media
 
-*Richtige Reaktion:* Direkt auf *redcross.ch* oder *ikrk.ch* gehen und dort spenden.
+Direkt auf *redcross.ch* oder *ikrk.ch* gehen und dort spenden.
 Nie über Links aus Social Media oder E-Mails.
 ====
 
