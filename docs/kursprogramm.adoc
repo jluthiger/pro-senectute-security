@@ -40,23 +40,23 @@ Nach dem Kurs können die Teilnehmenden:
 
 | *Tag 1*
 | Betrug erkennen: E-Mails, Links, Telefon und Fernzugriff
-| 09:00–11:30
+| 13:30–16:00
 
 | *Tag 2*
 | Passwörter, Kontoschutz und persönlicher Sicherheitsplan +
 _(mindestens eine Woche nach Tag 1)_
-| 09:00–11:30
+| 13:30–16:00
 |===
 
 == Tag 1 – Betrug erkennen: E-Mails, Links und Telefon
 
-=== Begrüssung und Einstieg (09:00–09:15)
+=== Begrüssung und Einstieg (13:30–13:45)
 
 * Vorstellungsrunde: Name und eine persönliche Erfahrung mit verdächtigen Nachrichten
 * Kursüberblick: Was lernen wir heute und nächste Woche?
 * Wichtiger Hinweis: Es gibt keine dummen Fragen – Betrüger sind professionell
 
-=== Modul 1: Gefälschte E-Mails und Links erkennen (09:15–10:15)
+=== Modul 1: Gefälschte E-Mails und Links erkennen (13:45–14:45)
 
 ==== Theorie: Wie denken Betrüger?
 
@@ -126,9 +126,9 @@ Jede E-Mail wird gemeinsam analysiert:
 *Übungsblatt:* link:uebung-modul-1.html[Übung Modul 1 öffnen]
 ====
 
-=== Pause (10:15–10:30)
+=== Pause (14:45–15:00)
 
-=== Modul 2: Telefonbetrug, Fernzugriff und Pop-ups (10:30–11:15)
+=== Modul 2: Telefonbetrug, Fernzugriff und Pop-ups (15:00–15:45)
 
 ==== Theorie: Betrug per Telefon und Fernzugriff
 
@@ -178,7 +178,7 @@ Die Kursleitung schildert je ein Szenario – die Teilnehmenden besprechen gemei
 *Übungsblatt:* link:uebung-modul-2.html[Übung Modul 2 öffnen]
 ====
 
-=== Abschluss Tag 1 und Vorschau Tag 2 (11:15–11:30)
+=== Abschluss Tag 1 und Vorschau Tag 2 (15:45–16:00)
 
 * Rückschau: Was war die wichtigste Erkenntnis heute? (jede Person nennt eine)
 * *Hausaufgabe bis Tag 2:* Eine Woche lang bewusst auf verdächtige Nachrichten achten und stichpunktartig notieren
@@ -188,12 +188,12 @@ Die Kursleitung schildert je ein Szenario – die Teilnehmenden besprechen gemei
 
 _(Mindestens eine Woche nach Tag 1)_
 
-=== Rückblick und Erfahrungsaustausch (09:00–09:15)
+=== Rückblick und Erfahrungsaustausch (13:30–13:45)
 
 * Besprechung der Hausaufgabe: Welche verdächtigen Nachrichten oder Situationen sind aufgetaucht?
 * Offene Fragen aus Tag 1 beantworten
 
-=== Modul 3: Sichere Passwörter und Kontoschutz (09:15–10:15)
+=== Modul 3: Sichere Passwörter und Kontoschutz (13:45–14:45)
 
 ==== Theorie: Warum Passwörter so wichtig sind
 
@@ -262,9 +262,9 @@ Selbst wenn jemand Ihr Passwort kennt, kommt er ohne den zweiten Faktor nicht in
 *Übungsblatt:* link:uebung-modul-3.html[Übung Modul 3 öffnen]
 ====
 
-=== Pause (10:15–10:30)
+=== Pause (14:45–15:00)
 
-=== Modul 4: Vertrauensbetrug und persönlicher Sicherheitsplan (10:30–11:15)
+=== Modul 4: Vertrauensbetrug und persönlicher Sicherheitsplan (15:00–15:45)
 
 ==== Theorie: Betrug über Vertrauen und Emotionen
 
@@ -305,7 +305,7 @@ Wer möchte, stellt eine Regel kurz vor.
 *Übungsblatt:* link:uebung-modul-4.html[Übung Modul 4 öffnen]
 ====
 
-=== Abschluss und Transfer (11:15–11:30)
+=== Abschluss und Transfer (15:45–16:00)
 
 * Wiederholungsquiz: Kursleitung liest 5 kurze Fragen vor – gemeinsam beantworten
 * Offene Fragen beantworten
@@ -321,11 +321,12 @@ Wer möchte, stellt eine Regel kurz vor.
 * Merkblatt «Woran erkenne ich eine Betrugs-E-Mail?»
 * Notfallkarte: Wen anrufen bei Verdacht auf Betrug?
 
-== Didaktische Hinweise für die Kursleitung
+== Weitere Tipps
 
-* Langsam sprechen und häufig nachfragen, ob alle folgen können
-* Reale Beispiele von Betrugs-E-Mails zeigen (anonymisiert, ausgedruckt oder am Bildschirm)
-* Keine Schuld zuweisen – Betrüger sind professionell, nicht die Opfer leichtgläubig
-* Diskussionen moderieren: alle zu Wort kommen lassen, nicht unterbrechen
-* Tag-2-Einstieg nutzen, um Erlebnisse der Hausaufgabe aufzugreifen
-* Bei technischen Fragen zu eigenen Geräten: nach dem Kurs individuell unterstützen
+* SRF
+  ** link:https://www.srf.ch/sendungen/kassensturz-espresso/espresso/cybersuuber-daten-besser-schuetzen-diese-fuenf-massnahmen-machen-es-moeglich[Daten besser schützen: Diese fünf Massnahmen machen es möglich]
+  ** link:https://www.srf.ch/sendungen/kassensturz-espresso/espresso/einfache-tipps-fuers-surfen-123456-als-passwort-so-geht-s-sicherer[Einfachere Passwörter: 123456 als Passwort? So geht's sicherer]
+
+* link:https://www.verbraucherzentrale.de/wissen/digitale-welt[Verbraucherzentrale Digitale Welt]
+  ** link:https://www.verbraucherzentrale.de/wissen/digitale-welt/phishingradar/phishingmails-woran-sie-sie-erkennen-und-worauf-sie-achten-muessen-6073[Phishing-Mails: Woran Sie sie erkennen und worauf Sie achten müssen]
+  ** link:https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/starke-passwoerter-erstellen-so-schuetzen-sie-ihre-onlinekonten-effektiv-11672[Starke Passwörter erstellen: So schützen Sie Ihre Online-Konten effektiv]
