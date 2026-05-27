@@ -308,6 +308,51 @@ Wer möchte, stellt eine Regel kurz vor.
 === Abschluss und Transfer (15:45–16:00)
 
 * Wiederholungsquiz: Kursleitung liest 5 kurze Fragen vor – gemeinsam beantworten
+
+*Frage 1 (Modul 1 – E-Mails):*
+Sie erhalten eine E-Mail von Ihrer Bank: «Ihr Konto wird in 24 Stunden gesperrt – klicken Sie jetzt auf diesen Link.» Was tun Sie?
+
+.Antwort anzeigen
+[%collapsible]
+====
+Nicht klicken. Wer Druck macht, will etwas von Ihnen. Direkt bei der Bank anrufen oder die Bankwebseite von Hand im Browser eingeben.
+====
+
+*Frage 2 (Modul 1 – Links prüfen):*
+Wie können Sie am Computer prüfen, wohin ein Link wirklich führt, ohne darauf zu klicken?
+
+.Antwort anzeigen
+[%collapsible]
+====
+Mauszeiger über den Link bewegen (nicht klicken) – unten links im Browser erscheint die echte Zieladresse (Schwebetrick).
+====
+
+*Frage 3 (Modul 2 – Telefonbetrug):*
+Eine fremde Stimme am Telefon sagt: «Ich bin von Microsoft. Ihr Computer ist infiziert. Bitte installieren Sie dieses Programm, damit ich helfen kann.» Was tun Sie?
+
+.Antwort anzeigen
+[%collapsible]
+====
+Sofort auflegen. Microsoft, Apple und Banken rufen Sie nie unaufgefordert an. Kein Programm installieren, keine Fernwartung erlauben.
+====
+
+*Frage 4 (Modul 3 – Passwörter):*
+Warum soll man für jedes Online-Konto ein eigenes Passwort verwenden?
+
+.Antwort anzeigen
+[%collapsible]
+====
+Wird ein Passwort gestohlen, sind alle anderen Konten trotzdem sicher. Mit demselben Passwort überall kann ein Dieb überall einbrechen.
+====
+
+*Frage 5 (Modul 4 – Vertrauensbetrug):*
+Sie bekommen auf Facebook eine zweite Freundschaftsanfrage von jemandem, den Sie schon als Freund haben. Was könnte das bedeuten, und was tun Sie?
+
+.Antwort anzeigen
+[%collapsible]
+====
+Wahrscheinlich ein Klonprofil – Betrüger kopieren echte Profile, um Vertrauen zu missbrauchen. Direkt per Telefon bei der Person nachfragen, ob die Anfrage von ihr stammt. Anfrage ablehnen.
+====
 * Offene Fragen beantworten
 * Hinweis auf Ressourcen:
   ** ncsc.admin.ch (Nationale Meldestelle für Cybersicherheit)
